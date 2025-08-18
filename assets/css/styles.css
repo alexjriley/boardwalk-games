@@ -37,7 +37,7 @@ h3 {
 /* Navbar */
 
 #navbar {
-    background-color: var(--primary-color);
+    background-color: var(--primary-color)
 }
 
 #navbar .logo {
